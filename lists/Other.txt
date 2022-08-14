@@ -1,0 +1,2 @@
+#new
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
